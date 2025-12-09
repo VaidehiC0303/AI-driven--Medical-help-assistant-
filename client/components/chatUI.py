@@ -1,7 +1,6 @@
 import streamlit as st
 from utils.api import ask_question
 
-
 def render_chat():
     st.subheader("💬 Chat with your assistant")
 
